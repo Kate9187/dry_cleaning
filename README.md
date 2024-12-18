@@ -37,7 +37,7 @@ server.port=8081
 
 Осуществите установку зависимостей 
 
-```npm install react-router-dom```
+```npm install bootstrap```
 
 ```npm install axios```
 
